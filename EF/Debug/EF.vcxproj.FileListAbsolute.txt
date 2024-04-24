@@ -1,0 +1,3 @@
+C:\Users\Usuario\OneDrive\Escritorio\EF\EF\Debug\EF.vcxproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\EF\EF\Debug\EF.MyForm.resources
+C:\Users\Usuario\OneDrive\Escritorio\EF\EF\Debug\EF.vcxproj.GenerateResource.cache

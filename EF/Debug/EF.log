@@ -1,0 +1,35 @@
+﻿  MyForm.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\Animacion.h(33,47): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\Animacion.h(33,32): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\FichaColor.h(10,9): error C2039: "direcciones": no es un miembro de "FichaColor"
+  (compilando archivo de origen "MyForm.cpp")
+  C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\FichaColor.h(4,7):
+  vea la declaración de 'FichaColor'
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\FichaColor.h(22,7): error C2065: 'direcciones': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\FichaColor.h(29,7): error C2065: 'direcciones': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\Controladora.h(20,23): error C2065: 'CantidadFichas': identificador no declarado
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\Controladora.h(33,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\Controladora.h(38,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\Controladora.h(45,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\Semana 16\EF\EF\MyForm.h(27,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
